@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## About 3LS-IT  
+  
+I am an indipendent contractor specializing in Unix systems administration and software development with a particular interest in FreeBSD. I am the maintainer of the Tenacity, Librewolf, and Xerces-C packages for Termux, an Android terminal emulator and Linux environment.
 <!--
 **3ls-it/3ls-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
