@@ -1,6 +1,6 @@
 ## About 3LS-IT  
   
-I am an indipendent contractor specializing in Unix systems administration and software development with a particular interest in [FreeBSD](https://www.freebsd.org). I am the maintainer of the Tenacity, Librewolf, and Xerces-C packages for [Termux](https://github.com/termux), an Android terminal emulator and Linux environment.  
+I am an independent contractor specializing in Unix systems administration and software development with a particular interest in [FreeBSD](https://www.freebsd.org). I am the maintainer of the Tenacity, Librewolf, and Xerces-C packages for [Termux](https://github.com/termux), an Android terminal emulator and Linux environment.  
    
 By sponsoring my work, you can help support open source software development!  
   
