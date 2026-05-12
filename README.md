@@ -1,11 +1,11 @@
 ## About 3LS-IT  
   
-I am an independent contractor specializing in Unix systems administration and software development with a particular interest in [FreeBSD](https://www.freebsd.org). I am the maintainer of the Tenacity, Librewolf, and Xerces-C packages for [Termux](https://github.com/termux), an Android terminal emulator and Linux environment.  
+I am an independent contractor specializing in Unix systems administration and software development with a particular interest in [FreeBSD](https://www.freebsd.org). I am the maintainer of the Tenacity, Librewolf, and Xerces-C packages for [Termux](https://github.com/termux), an Android terminal emulator and Linux environment. I have also contributed to the FreeBSD port of Password Safe v1.23.  
    
 By sponsoring my work, you can help support open source software development!  
   
-- 🔭 I’m currently working on a Termux package of the [Password Safe](https://pwsafe.org/) password manager.
-- 🔭 I'm also working on the next release of my ChatGPT client [OpenAI Assistant](https://github.com/3ls-it/openai-assistant).  
+- 🔭 I’m currently working on a Termux package of the [Password Safe](https://pwsafe.org/) password manager. This is turning out to be quite a challenge!
+- 🔭 I'm also working on the next release of my ChatGPT client [OpenAI Assistant](https://github.com/3ls-it/openai-assistant). This next release removes server-side chat artifacts when the chat has ended, or the app is exited.  
 
 #### Using Sudo
 If you are on Ubuntu (or what ever) with passwordless, unlimited sudo, that's bad practice. Edit your `/etc/sudoers` to require your password. Please.  
