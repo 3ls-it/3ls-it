@@ -4,7 +4,8 @@ I am an independent contractor specializing in Unix systems administration and s
    
 By sponsoring my work, you can help support open source software development!  
   
-- 🔭 I’m currently working on a Termux package of the [Password Safe](https://pwsafe.org/) password manager. This is turning out to be quite a challenge!
+- 🔭 I’m currently working on a Termux package of the [Password Safe](https://pwsafe.org/) password manager. https://github.com/termux/termux-packages/discussions/29362
+- 🔭 Collaberating with others in the Termux community on a Termux package of [LibreOffice](https://www.libreoffice.org/). https://github.com/termux/termux-packages/issues/29690
 - 🔭 I'm also working on the next release of my ChatGPT client [OpenAI Assistant](https://github.com/3ls-it/openai-assistant). This next release removes server-side chat artifacts when the chat has ended, or the app is exited.  
 
 #### Using Sudo
