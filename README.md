@@ -5,7 +5,7 @@ I am an independent contractor specializing in Unix systems administration and s
 By sponsoring my work, you can help support open source software development!  
   
 - 🔭 Collaberating with others in the Termux community on a Termux package of [LibreOffice](https://www.libreoffice.org/). https://github.com/termux/termux-packages/issues/29690
-- 🔭 I'm also working on the next release of my ChatGPT client [OpenAI Assistant](https://github.com/3ls-it/openai-assistant). This next release removes server-side chat artifacts when the chat has ended, or the app is exited.  
+- 🔭 I'm also working on the next release of my ChatGPT client [OpenAI Assistant](https://github.com/3ls-it/openai-assistant). This next release adds file  downloading of Code Interpreter container artifacts, code clean-up/refactoring, and some nice little touches. There is also an experimental feature which removes server-side chat artifacts when the chat is ended, or the app is exited. This feature will evolve to include "replay" server-side clean up after an abmormal termination.  
 
 #### Using Sudo
 If you are on Ubuntu (or what ever) with passwordless, unlimited sudo, that's bad practice. Edit your `/etc/sudoers` to require your password. Please.  
