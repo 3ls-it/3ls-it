@@ -4,7 +4,7 @@ I am an independent contractor specializing in Unix systems administration and s
    
 By sponsoring my work, you can help support open source software development!  
   
-- 🔭 I'm working on the next release of my ChatGPT client [OpenAI Assistant](https://github.com/3ls-it/openai-assistant). This next release adds file  downloading of Code Interpreter container artifacts, code clean-up/refactoring, and some nice little touches. There is also an experimental feature which removes server-side chat artifacts when the chat is ended, or the app is exited. This feature will evolve to include "replay" server-side clean up after an abmormal termination.  
+- 🔭 I've released v3.2.0 of my ChatGPT client [OpenAI Assistant](https://github.com/3ls-it/openai-assistant). This release adds file downloading of Code Interpreter container artifacts, as well as optional server-side conversation clean up. Additionally, debug logging is more verbose and much code clean-up/refactoring has been done. 
 - 🔭 Occasionally collaberating with others in the Termux community on a Termux package of [LibreOffice](https://www.libreoffice.org/). https://github.com/termux/termux-packages/issues/29690  
 
 #### Using Sudo
