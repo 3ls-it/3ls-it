@@ -5,7 +5,7 @@ I am an independent contractor specializing in Unix systems administration and s
 By sponsoring my work, you can help support open source software development!  
   
 - 🔭 19 July 2026: I've released v3.2.1 of my ChatGPT client [OpenAI Assistant](https://github.com/3ls-it/openai-assistant). This release adds file downloading of Code Interpreter container artifacts, as well as optional server-side conversation clean up. Additionally, debug logging is more verbose and much code clean-up/refactoring has been done. This maintenence release also closed a gap in server-side cleanup after abnormal termination.  
-- 🔭 Occasionally collaberating with others in the Termux community on a Termux package of [LibreOffice](https://www.libreoffice.org/). https://github.com/termux/termux-packages/issues/29690  
+- 🔭 Working on a Termux package of KStars.  
 
 #### Using Sudo
 If you are on Ubuntu (or what ever) with passwordless, unlimited sudo, that's bad practice. Edit your `/etc/sudoers` to require your password. Please.  
