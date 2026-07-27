@@ -4,15 +4,15 @@ I am an independent contractor specializing in Unix systems administration and s
    
 By sponsoring my work, you can help support open source software development!  
   
-- 🔭 19 July 2026: I've released v3.2.1 of my ChatGPT client [OpenAI Assistant](https://github.com/3ls-it/openai-assistant). This release adds file downloading of Code Interpreter container artifacts, as well as optional server-side conversation clean up. Additionally, debug logging is more verbose and much code clean-up/refactoring has been done. This maintenence release also closed a gap in server-side cleanup after abnormal termination.  
-- 🔭 Working on a Termux package of KStars.  
+- 19 July 2026: I've released v3.2.1 of my ChatGPT client [OpenAI Assistant](https://github.com/3ls-it/openai-assistant). This release adds file downloading of Code Interpreter container artifacts, as well as optional server-side conversation clean up. Additionally, debug logging is more verbose and much code clean-up/refactoring has been done. This maintenance release also closed a gap in server-side cleanup after abnormal termination.  
+- 27 July: KStars is now in the [Termux Packages](https://github.com/termux/termux-packages) repository.  
 
 #### Using Sudo
 If you are on Ubuntu (or what ever) with passwordless, unlimited sudo, that's bad practice. Edit your `/etc/sudoers` to require your password. Please.  
   
 Quotes from Michael W. Lucas' book [Sudo Mastery, 2nd ed.](https://mwl.io/nonfiction/tools#sudo2):  
 
-  "Broadly disabling sudo authentication is unwise. Yes, it's certainly convenient. Also, any intruder or application that gets a command prompt or access to your account also gains total access to all of your sudo privleges. If you're running a Linux variant that gives the first user full root access via sudo, then the rougue process will completely own your machine."  
+  "Broadly disabling sudo authentication is unwise. Yes, it's certainly convenient. Also, any intruder or application that gets a command prompt or access to your account also gains total access to all of your sudo privileges. If you're running a Linux variant that gives the first user full root access via sudo, then the rogue process will completely own your machine."  
 ...  
 "Disabling sudo authentication is equivalent to deliberately implementing the Windows 95 security system."  
 
